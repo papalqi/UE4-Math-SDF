@@ -9,8 +9,7 @@
 
 ![](https://papalqiblog.oss-cn-beijing.aliyuncs.com/blog/picture20220211204123.png)
 
-
-![](https://papalqiblog.oss-cn-beijing.aliyuncs.com/blog/picture20220211204139.png)
+![](https://papalqiblog.oss-cn-beijing.aliyuncs.com/blog/pictureP2.png)
 
 ## Features
 - [x] 2D SDF 
