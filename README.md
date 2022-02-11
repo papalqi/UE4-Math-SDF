@@ -6,9 +6,11 @@
 
 算法来源为https://www.iquilezles.org/www/articles/distfunctions2d/distfunctions2d.htm
 
-![](./Picture/P1.png)
 
-![](./Picture/P2.png)
+![](https://papalqiblog.oss-cn-beijing.aliyuncs.com/blog/picture20220211204123.png)
+
+
+![](https://papalqiblog.oss-cn-beijing.aliyuncs.com/blog/picture20220211204139.png)
 
 ## Features
 - [x] 2D SDF 
@@ -23,4 +25,4 @@
 --- 
     @papalqi  https://papalqi.cn/
 
-![](./Picture/P3.jpg)
+![](https://papalqiblog.oss-cn-beijing.aliyuncs.com/blog/picture20220211204152.png)
