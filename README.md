@@ -8,6 +8,8 @@
 
 ![](./Picture/P1.png)
 
+![](./Picture/P2.png)
+
 ## Features
 - [x] 2D SDF 
 - [ ] 3D SDF 
@@ -17,5 +19,8 @@
 
 1. unreal engine 4.27.
 2. 为了方便shader编写使用到的插件 https://github.com/Phyronnaz/HLSLMaterial
- 
 
+--- 
+    @papalqi  https://papalqi.cn/
+
+![](./Picture/P3.jpg)
